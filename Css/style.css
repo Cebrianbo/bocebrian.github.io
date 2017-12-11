@@ -36,7 +36,7 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#c10000;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -70,12 +70,12 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#000000;
   font-weight:bold;
 }
 
 header a:hover{
-  color:#cccccc;
+  color:#000000;
   font-weight:bold;
 }
 
@@ -102,7 +102,7 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#35424a
+  background:#c10000
 }
 
 #newsletter h1{
@@ -167,7 +167,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#c10000;
   text-align: center;
 }
 
