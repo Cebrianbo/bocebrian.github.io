@@ -82,8 +82,8 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('./img/showcase.jpg') no-repeat 0;
-  background-position:center;
+  background:url('../img/jesus_christ_the_lord-1448342.jpg') no-repeat 0;
+  background-position:center top;
   text-align:center;
   color:#000000;
 }
