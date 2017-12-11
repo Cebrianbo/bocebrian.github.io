@@ -44,7 +44,7 @@ header{
 }
 
 header a{
-  color:#ffffff;
+  color:#000000;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
@@ -82,7 +82,7 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('../img/showcase.jpg') no-repeat 10px 200px;
+  background:url('./img/showcase.jpg') no-repeat 0;
   background-position:center bottom;
   text-align:center;
   color:#ffffff;
