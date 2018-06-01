@@ -15,9 +15,9 @@ int gamestate = 0;
 int y = 0; int Vy = 0;
 
 void setup(){
-  size(300, 300);
-  ship = loadImage("./Images/15872-illustration-of-a-soccer-ball-pv.png");
-  background = loadImage("./Images/e91a3dcf-c15a-441a-b369-996922364cdc-profile_image-300x300.png");
+  size(800, 600);
+  ship = loadImage("./Images/Basketball.png");
+  background = loadImage("./Images/blackground.jpg");
 }
 
 void draw(){
@@ -37,7 +37,7 @@ void draw(){
       Vy += 1;
     }
     
-    y = y + Vy;
+
   }
   
   if (y < -40 || y > 600){
